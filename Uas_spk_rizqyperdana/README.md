@@ -15,5 +15,7 @@ Install postman:
 [`Postman`](https://www.postman.com/downloads/)
 
 ## Hasil
-<img src='screenshot/Screenshot hasil.png' alt='Screenshot Hasil'/>
+<img src='screenshot/Screenshot Hasil Post 1.jpeg' alt='Screenshot Hasil'/>
+<img src='screenshot/Screenshot Hasil Post 2.jpeg' alt='Screenshot Hasil'/>
+<img src='screenshot/Screenshot Hasil Terminal.jpeg' alt='Screenshot Hasil'/>
 
